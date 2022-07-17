@@ -1,0 +1,8 @@
+{
+    "availablejobs":
+    [
+        {"title":"Game Developer", "id":"1", "description": "rats"},
+        {"title":"Game Level Designer", "id":"2", "description": "frogs"},
+        {"title":"Game Senior Developer", "id":"3", "description": "uh"}
+    ]
+}
